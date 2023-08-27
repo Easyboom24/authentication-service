@@ -1,0 +1,8 @@
+config.yml
+.idea
+.data
+.bin
+cmd/main/logs
+
+# Visual Studio Settings
+.vscode
